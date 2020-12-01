@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠 &nbsp;Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=adobe-photoshop)\
