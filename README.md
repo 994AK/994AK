@@ -1,26 +1,16 @@
 ### Hello  👋
 
-<!--
-**timeTravelCYN/timetravelCYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web project 
+- 🌱 I’m currently learning JavaScript、vue、nodeJS
+- 👯 I need a job
+- 🤔 I’m looking for help with web guidance 
+- 💬 Ask me about Born in 99 Age 21 Like to communicate
+- 📫 How to reach me: WeChat qr code
+- 😄 Pronouns: Next year 2021 evaluation A++
+- ⚡ Fun fact: Study the unknown
 
-- 🔭 我在广西南宁小伙，99年 😁
-- 🌱 有一群快乐帮助我的小伙伴😍
-- 📫 如果我需要一份前端工作，可以联系wx 17687208697（同手机号）👈
-- 👯 目标2021年：努力达到 A++～
-
----
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -40,5 +30,4 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://github.com/994AK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=994AK&show_icons=true&title_color=66FF66&icon_color=FFFFFF&text_color=FFFFFF&bg_color=333333" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=994AK&layout=compact&exclude_lang=java+r&theme=react" />
 </a>
