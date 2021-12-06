@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Next year 2021 evaluation A++
 - ⚡ Fun fact: Study the unknown
 
-![WeChat](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0582405d126b456f83f6d9f65c53f0bc~tplv-k3u1fbpfcp-watermark.image?imageView2/2/w/480/h/480/q/85/interlace/1)
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
