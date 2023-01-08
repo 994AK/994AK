@@ -1,16 +1,5 @@
 ### Hello  👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Web project 
-- 🌱 I’m currently learning JavaScript、vue、nodeJS
-- 👯 I need a job
-- 🤔 I’m looking for help with web guidance 
-- 💬 Ask me about Born in 99 Age 21 Like to communicate
-- 📫 How to reach me: WeChat qr code
-- 😄 Pronouns: Next year 2021 evaluation A++
-- ⚡ Fun fact: Study the unknown
-
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
