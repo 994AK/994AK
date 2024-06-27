@@ -6,6 +6,7 @@
 [![GitHub](https://img.shields.io/badge/Follow-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/994AK)
 <br />
 <br />
+<br />
 
 ## 关于我
 
@@ -16,7 +17,8 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js) ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery) ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite) ![Vue](https://img.shields.io/badge/VueJs-black?style=flat-square&logo=vuedotjs) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony) ![PrestaShop](https://img.shields.io/badge/PrestaShop-black?style=flat-square&logo=prestashop) ![WordPress](https://img.shields.io/badge/WordPress-black?style=flat-square&logo=wordpress) ![WooCommerce](https://img.shields.io/badge/WooCommerce-black?style=flat-square&logo=woocommerce) ![npm](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm) ![Yarn](https://img.shields.io/badge/Yarn-black?style=flat-square&logo=yarn) ![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=composer)
 
-## 👨‍💻 Interests
+## 👨‍💻 兴趣
 
 除了对 Web 开发坚定不移的热情外，我还过着多方面的生活，包括各种兴趣和追求。在编码领域之外，我在各种活动中找到了灵感和成就感，这些活动可以培养我的创造力，挑战我的智力，并促进平衡的生活方式。无论是探索尖端技术还是沉浸在大自然的奇观中，我生活的方方面面都为我的个人和职业发展做出了贡献。
 - 对 Web 开发充满热情，不断探索和尝试最新进展。
+- 对喜欢玩我的世界，因为他可以创造自己想要的。
