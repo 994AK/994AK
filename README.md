@@ -4,7 +4,7 @@
 
 <small><em>📌 广州</em></small>
 
-[![GitHub follow](https://img.shields.io/badge/Follow-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPickleBoxer)
+[![GitHub](https://img.shields.io/badge/Follow-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/994AK?tab=following)
 <br />
 <br />
 
